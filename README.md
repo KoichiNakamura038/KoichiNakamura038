@@ -10,13 +10,13 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="coding" width="300" src="https://github.com/snitch97/snitch97/blob/main/assests/images/coding_gif.gif"/>
- 
-- 💼 **Current Role**: Full Stack Developer and AI Engineer delivering high-quality web solutions.
-- 🤝 **Leadership**: Managing a skilled developer team with a focus on collaboration and innovation.
-- 🚀 **Learning**: Exploring advanced platform architecture & machine learning (AI).
-- 🌐 **Expertise**: Project Management, Full-stack Development (React, TypeScript, Next.js, Solidity, Rust, Supabase, etc.).
-- ⚡ **Fun Fact**: I’ve traveled to over 10 countries and enjoy hiking.
+I am an AI and FullStack and Blockchain Engineer specializing in scalable, production-grade applications powered by modern AI, with expertise in LLMs, agent architectures, RAG systems, applied machine learning, and end-to-end web and cloud development.
+
+I design and deliver intelligent software solutions ranging from AI-powered applications and distributed systems to high-performance web platforms, while emphasizing clean architecture, reliability, security, and scalability throughout the development lifecycle.
+
+I also develop blockchain-based applications, including smart contracts, decentralized applications (dApps), Web3 integrations, and blockchain infrastructure, building secure and production-ready solutions for modern decentralized ecosystems.
+
+This version is suitable for a GitHub profile and clearly communicates expertise in AI, full-stack development, and blockchain in just three professional sentences.
 
 ## 🛠 Skills
 
