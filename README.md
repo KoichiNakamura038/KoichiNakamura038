@@ -141,10 +141,6 @@
 </picture>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78518&width=700&lines=Don't+forget+to+star+the+repositories+you+like!;Follow+me+for+more+cool+projects!" alt="Typing SVG" />
-</p>
-
 
 
 
