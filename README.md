@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  🚀 I am a passionate <strong>Full Stack Developer</strong> and <strong>Blockchain Engineer</strong> who loves building innovative, scalable solutions and leading teams toward creative excellence.  
+  🚀 I am a passionate <strong>Full-Stack AI </strong> and <strong>Blockchain Engineer</strong> who loves building innovative, scalable solutions and leading teams toward creative excellence.  
 </p>
 
 ## 🌟 About Me
