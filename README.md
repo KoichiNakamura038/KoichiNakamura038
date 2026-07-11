@@ -125,7 +125,7 @@
   </tr>
 </table>
 
-## 🐍 Contribution Animation
+##   🐍 Contribution Animation
 
 <p align="center">
   <img src="https://github.com/snitch97/snitch97/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
