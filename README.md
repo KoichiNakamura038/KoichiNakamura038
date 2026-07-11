@@ -8,10 +8,10 @@
   🚀 I am a passionate <strong>Full-Stack AI </strong> and <strong>Blockchain Engineer</strong> who loves building innovative, scalable solutions and leading teams toward creative excellence.  
 </p>
 
-## 🌟 About Me
+##  🌟 About Me
 
 <img align="right" alt="coding" width="300" src="https://github.com/snitch97/snitch97/blob/main/assests/images/coding_gif.gif"/>
-
+ 
 - 💼 **Current Role**: Full Stack Developer and AI Engineer delivering high-quality web solutions.
 - 🤝 **Leadership**: Managing a skilled developer team with a focus on collaboration and innovation.
 - 🚀 **Learning**: Exploring advanced platform architecture & machine learning (AI).
@@ -125,7 +125,7 @@
   </tr>
 </table>
 
-## 🐍 Contribution Animation
+##   🐍 Contribution Animation
 
 <p align="center">
   <img src="https://github.com/snitch97/snitch97/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
