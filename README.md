@@ -18,7 +18,7 @@
 - 🌐 **Expertise**: Project Management, Full-stack Development (React, TypeScript, Next.js, Solidity, Rust, Supabase, etc.).
 - ⚡ **Fun Fact**: I’ve traveled to over 10 countries and enjoy hiking.
 
-## 🛠 Skills
+# # 🛠 Skills
 
 <table align="center">
   <tr>
