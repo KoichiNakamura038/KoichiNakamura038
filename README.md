@@ -140,16 +140,6 @@
     src="https://raw.githubusercontent.com/snitch97/snitch97/out/pacman-contribution-graph.svg">
 </picture>
 
-## 🤝 Connect & Follow
-
-<p align="center">
-  <a href="https://github.com/snitch97">
-    <img src="https://img.shields.io/github/followers/snitch97?label=Follow&style=social" height="30" />
-  </a>
-  <a href="https://github.com/snitch97?tab=repositories">
-    <img src="https://img.shields.io/github/stars/snitch97?label=Star&style=social" height="30" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78518&width=700&lines=Don't+forget+to+star+the+repositories+you+like!;Follow+me+for+more+cool+projects!" alt="Typing SVG" />
