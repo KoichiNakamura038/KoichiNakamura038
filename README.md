@@ -16,7 +16,6 @@ I design and deliver intelligent software solutions ranging from AI-powered appl
 
 I also develop blockchain-based applications, including smart contracts, decentralized applications (dApps), Web3 integrations, and blockchain infrastructure, building secure and production-ready solutions for modern decentralized ecosystems.
 
-This version is suitable for a GitHub profile and clearly communicates expertise in AI, full-stack development, and blockchain in just three professional sentences.
 
 ## 🛠 Skills
 
