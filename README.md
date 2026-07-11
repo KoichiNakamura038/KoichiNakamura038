@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-I am an AI and <p style="color:blue">FullStack and Blockchain Engineer</p> specializing in scalable, production-grade applications powered by modern AI, with expertise in LLMs, agent architectures, RAG systems, applied machine learning, and end-to-end web and cloud development.
+I am an AI and <strong>FullStack and Blockchain Engineer</strong> specializing in scalable, production-grade applications powered by modern AI, with expertise in LLMs, agent architectures, RAG systems, applied machine learning, and end-to-end web and cloud development.
 
 I design and deliver intelligent software solutions ranging from AI-powered applications and distributed systems to high-performance web platforms, while emphasizing clean architecture, reliability, security, and scalability throughout the development lifecycle.
 
