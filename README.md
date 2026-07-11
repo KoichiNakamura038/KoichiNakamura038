@@ -8,7 +8,7 @@
   🚀 I am a passionate <strong>Full-Stack AI </strong> and <strong>Blockchain Engineer</strong> who loves building innovative, scalable solutions and leading teams toward creative excellence.  
 </p>
 
-##  🌟 About Me
+## 🌟 About Me
 
 <img align="right" alt="coding" width="300" src="https://github.com/snitch97/snitch97/blob/main/assests/images/coding_gif.gif"/>
  
