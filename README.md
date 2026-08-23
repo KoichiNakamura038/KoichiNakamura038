@@ -130,37 +130,7 @@ I also develop blockchain-based applications, including smart contracts, decentr
   </tr>
 </table>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KoichiNakamura038&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoichiNakamura038&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoichiNakamura038&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-##   🐍 Contribution Animation
-
-<p align="center">
-  <a href="https://github.com/KoichiNakamura038">
-    <img src="https://raw.githubusercontent.com/KoichiNakamura038/KoichiNakamura038/output/github-contribution-grid-snake.svg" alt="snake animation" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/KoichiNakamura038">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/KoichiNakamura038/KoichiNakamura038/out/pacman-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/KoichiNakamura038/KoichiNakamura038/out/pacman-contribution-graph.svg">
-      <img alt="Pacman contribution graph"
-        src="https://raw.githubusercontent.com/KoichiNakamura038/KoichiNakamura038/out/pacman-contribution-graph.svg">
-    </picture>
-  </a>
-</p>
 
 
 
