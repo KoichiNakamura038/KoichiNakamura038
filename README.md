@@ -106,11 +106,7 @@ I also develop blockchain-based applications, including smart contracts, decentr
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
       <br>Node.js
-    </td> 
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=solidity" width="40" height="40" alt="Solidity" />
-      <br>Solidity
-    </td>    
+    </td>
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
       <br>Tailwind
@@ -126,6 +122,78 @@ I also develop blockchain-based applications, including smart contracts, decentr
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
       <br>PostgreSQL
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis" />
+      <br>Redis
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" alt="GCP" />
+      <br>GCP
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=ethereum" width="40" height="40" alt="Ethereum" />
+      <br>Ethereum
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=hardhat" width="40" height="40" alt="Hardhat" />
+      <br>Hardhat
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=ipfs" width="40" height="40" alt="IPFS" />
+      <br>IPFS
+    </td>
+    <td align="center" width="103">
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" width="80" height="40" alt="LangChain" />
+      <br>LangChain
+    </td>
+    <td align="center" width="103">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" width="80" height="40" alt="OpenAI" />
+      <br>OpenAI
+    </td>
+    <td align="center" width="103">
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" width="80" height="40" alt="HuggingFace" />
+      <br>HuggingFace
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=kafka" width="40" height="40" alt="Kafka" />
+      <br>Kafka
+    </td>
+    <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=elasticsearch" width="40" height="40" alt="Elasticsearch" />
+      <br>Elasticsearch
     </td>
   </tr>
 </table>
