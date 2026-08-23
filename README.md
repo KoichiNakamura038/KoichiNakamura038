@@ -8,6 +8,12 @@
   🚀 I am a passionate <strong>Full-Stack AI </strong> and <strong>Blockchain Engineer</strong> who loves building innovative, scalable solutions and leading teams toward creative excellence.  
 </p>
 
+<p align="center">
+  <a href="https://github.com/KoichiNakamura038">
+    <img src="https://img.shields.io/badge/GitHub-KoichiNakamura038-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+</p>
+
 ## 🌟 About Me
 
 I am a <strong>FullStack AI and Blockchain Engineer</strong> specializing in scalable, production-grade applications powered by modern AI, with expertise in <strong> LLMs, agent architectures, RAG systems, applied machine learning, and end-to-end web </strong> and cloud development.
@@ -124,20 +130,37 @@ I also develop blockchain-based applications, including smart contracts, decentr
   </tr>
 </table>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KoichiNakamura038&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoichiNakamura038&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoichiNakamura038&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ##   🐍 Contribution Animation
 
 <p align="center">
-  <img src="https://github.com/snitch97/snitch97/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <a href="https://github.com/KoichiNakamura038">
+    <img src="https://raw.githubusercontent.com/KoichiNakamura038/KoichiNakamura038/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/snitch97/snitch97/out/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/snitch97/snitch97/out/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/snitch97/snitch97/out/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <a href="https://github.com/KoichiNakamura038">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/KoichiNakamura038/KoichiNakamura038/out/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/KoichiNakamura038/KoichiNakamura038/out/pacman-contribution-graph.svg">
+      <img alt="Pacman contribution graph"
+        src="https://raw.githubusercontent.com/KoichiNakamura038/KoichiNakamura038/out/pacman-contribution-graph.svg">
+    </picture>
+  </a>
+</p>
 
 
 
